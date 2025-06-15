@@ -11,7 +11,25 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer>Coded by Kati Zech ✨</footer>
+        <footer>
+          Coded by Kati Zech, open-sourced on{" "}
+          <a
+            href="https://github.com/katixyz/react-dictionary-app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>{" "}
+          and hosted on{" "}
+          <a
+            href="https://splendorous-alfajores-553cc2.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Netlify
+          </a>{" "}
+          ✨
+        </footer>
       </div>
     </div>
   );
