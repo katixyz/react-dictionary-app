@@ -2,11 +2,34 @@
   text-align: center;
 }
 
-.App-header {
-  margin: 30px 0;
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  font-family: "Inria Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
+.App-header {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: 0 auto;
+  background-color: #267148;
+  padding: 75px 0 50px 0;
+}
+
+h1 {
+  font-size: 48px;
+   font-family: "Joan", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
 .App footer {
-  margin: 30px 0;
+  padding: 15px;
   font-size: 12px;
+  background-color: #26724866;
 }

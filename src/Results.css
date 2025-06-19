@@ -1,0 +1,21 @@
+h2 {
+    color: #267248;
+    font-weight: bold;
+    font-family: "Joan", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.card {
+    display: block;
+    width: 100%;
+    margin: 15px auto;
+    padding: 25px;
+    border-radius: 14px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.2);
+}
+
+.Results {
+    background-color: #26724866;
+    padding: 15px 250px;
+}

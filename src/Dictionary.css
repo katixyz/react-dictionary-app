@@ -1,0 +1,25 @@
+.search-form {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 250px;
+  background-color: #267148;
+}
+
+.search-form h4 {
+    color: #fff;
+    margin-bottom: 15px;
+    font-weight: 200;
+}
+
+form {
+    padding-bottom: 75px;
+    margin: 0 auto;
+}
+
+input {
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 14px;
+    border: #00000054 1px solid;
+    padding: 1px 14px;
+}

@@ -1,0 +1,17 @@
+h4 {
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+.definition {
+    display: inline;
+}
+
+.card {
+    display: block;
+    width: 1000px;
+    margin-top: 20px;
+    padding: 25px;
+    border-radius: 14px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.2);
+}

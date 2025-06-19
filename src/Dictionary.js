@@ -25,9 +25,12 @@ export default function Dictionary() {
 
   return (
     <div>
+      <div className="search-form">
+      <h4 className="instruction">Search for the meaning of any word</h4>
       <form onSubmit={search}>
-        <input type="search" onChange={handleKeywordChange} />
+        <input type="search" onChange={handleKeywordChange} placeholder="e.g. sun, book, wine, ..."/>
       </form>
+      </div>
       <Results results={results} />
     </div>
   );
