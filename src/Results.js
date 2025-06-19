@@ -24,6 +24,10 @@ export default function Results(props) {
       </div>
     );
   } else {
-    return null;
+    return (
+      <div className="hint">
+          <p className="hintText">📝 Your results will be displayed here</p>
+      </div>
+    );
   }
 }
