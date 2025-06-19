@@ -27,6 +27,10 @@ h1 {
   font-style: normal;
 }
 
+a {
+  text-decoration: none;
+  color: #267148;
+}
 
 .App footer {
   padding: 15px;

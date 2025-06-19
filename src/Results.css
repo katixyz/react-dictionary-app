@@ -6,10 +6,10 @@ h2 {
     font-style: normal;
 }
 
-.card {
+.Results .card {
     display: block;
-    width: 100%;
-    margin: 15px auto;
+    max-width: 1000px;
+    margin: 15px auto 0 auto;
     padding: 25px;
     border-radius: 14px;
     box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.2);
@@ -17,5 +17,5 @@ h2 {
 
 .Results {
     background-color: #26724866;
-    padding: 15px 250px;
+    padding: 15px;
 }
