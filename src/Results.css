@@ -6,11 +6,6 @@ h2 {
     font-style: normal;
 }
 
-p {
-    text-transform: uppercase;
-    padding: 25px;
-}
-
 .Results .card {
     display: block;
     max-width: 1000px;
@@ -30,6 +25,8 @@ p {
     margin: 0;
     font-weight: 600;
     color: #267248;
+    text-transform: uppercase;
+    padding: 25px;
 }
 
 .Results {
